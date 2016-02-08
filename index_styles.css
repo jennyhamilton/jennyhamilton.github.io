@@ -1,7 +1,8 @@
 
 h1 {
 	font-family: Antiqua;
-	font-size: 2em;
+	font-size: 3em;
+	color: rgb(64,0,0);
 	text-align: center;
 	margin-top: 1.0em;
 	margin-bottom: 0.05em;
@@ -9,8 +10,8 @@ h1 {
 
 h2{
 	font-family: Georgia;
-	font-size: 1em;
-	text-align: right;
+	font-size: 1.5em;
+	text-align: left;
 	margin-top: 1.0em;
 	margin-bottom: 0.05em;
 	margin-right: 8em;
