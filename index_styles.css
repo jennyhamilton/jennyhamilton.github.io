@@ -17,3 +17,7 @@ p {
 	margin-right: 8em;
 	margin-left: 8em;
 }
+
+p.small {
+	font-size: 0.5em;
+}
