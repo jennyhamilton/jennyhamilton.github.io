@@ -20,4 +20,14 @@ p {
 
 div.small {
 	font-size: 16px;
+	margin-bottom: 10px;
+	margin-top:10px;
+}
+
+div.bullets {
+	font-size: 12px;
+	margin-bottom: 10px;
+	margin-top:10px;
+	margin-right:100px;
+
 }
