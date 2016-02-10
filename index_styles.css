@@ -24,10 +24,11 @@ div.small {
 	margin-top:10px;
 }
 
-div.bullets {
+li {
 	font-size: 12px;
-	margin-bottom: 10px;
-	margin-top:10px;
 	margin-right:100px;
+}
 
+span {
+		font-size: 16px;
 }
